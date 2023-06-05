@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am currently mostly working on [CICS](https://en.wikipedia.org/wiki/CICS), and looking for excuses to use comashes (`,—`), semi-colashes (`;—`) and colashes (`:—`) more often.
+I am currently mostly working on [CICS](https://en.wikipedia.org/wiki/CICS), and looking for excuses to use commashes (`,—`), semi-colashes (`;—`) and colashes (`:—`)[^1] more often.
+
+[^1]: [Weird 19th-Century Punctuation Marks You Should Try Using](https://clivethompson.medium.com/weird-19th-century-punctuation-marks-you-should-try-using-49d2e2516e5e)
 
 <!--
 **jt-nti/jt-nti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
