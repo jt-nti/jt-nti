@@ -1,21 +1,6 @@
 ### Hi there 👋
 
-I am currently mostly working on [CICS](https://en.wikipedia.org/wiki/CICS), and looking for excuses to use comashes[^1], semi-colashes[^2] and colashes[^3] more often.
-
-[^1]: Comash
-    ```
-    ,—
-    ```
-
-[^2]: Semi-colash
-    ```
-    ;—
-    ```
-
-[^3]: Colash
-    ```
-    :—
-    ```
+I am currently mostly working on [CICS](https://en.wikipedia.org/wiki/CICS), and looking for excuses to use comashes (`,—`), semi-colashes (`;—`) and colashes (`:—`) more often.
 
 <!--
 **jt-nti/jt-nti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
